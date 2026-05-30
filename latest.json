@@ -1,7 +1,7 @@
 {
-    "notes":  "Initial compiled native release.",
+    "version":  "1.0.1",
     "fileName":  "CharonManifestInstaller.exe",
-    "url":  "https://github.com/BlissBlender/Charon-Manifest-Installer/raw/main/Release/CharonManifestInstaller.exe",
-    "version":  "1.0.0",
-    "sha256":  "6BDF6444B87160E68C5579C7309DA594FA90EA1410690F8433E53B177C4328D4"
+    "url":  "https://github.com/BlissBlender/Charon-Manifest-Installer/releases/download/v1.0.1/CharonManifestInstaller.exe",
+    "sha256":  "DED8738E87E828A2E0AE8947E4953E00EEA27634CAEDB5C6191F2B1EC59422BE",
+    "notes":  "Shows ManifestVault vs External Database source and improves compiled updater reliability."
 }

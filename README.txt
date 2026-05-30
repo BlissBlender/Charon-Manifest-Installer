@@ -8,12 +8,13 @@ What it does:
   - Finds Steam
   - Reads Steam\config\stplug-in\{AppId}.lua
   - Downloads matching .manifest files into Steam\depotcache
+  - Shows whether a download used ManifestVault, External Database, or ManifestHub
   - Lets you press O to open depotcache after completion
   - Lets you press Z to preview and create Documents\AppId.zip
 
 Source order:
   1. ManifestVault
-  2. Backup repo qwe213312/k25FCdfEOoEJ42S6
+  2. External Database qwe213312/k25FCdfEOoEJ42S6
   3. ManifestHub fallback when option 2 is selected
 
 Notes:
