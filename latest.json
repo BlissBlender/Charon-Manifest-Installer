@@ -1,7 +1,7 @@
-﻿{
-    "version":  "1.0.0",
+{
+    "notes":  "Initial compiled native release.",
     "fileName":  "CharonManifestInstaller.exe",
     "url":  "https://github.com/BlissBlender/Charon-Manifest-Installer/raw/main/Release/CharonManifestInstaller.exe",
-    "sha256":  "21B8D0A208C361D80C7DF4F20933E0F103578D61EA79E505C295465B8FE89543",
-    "notes":  "Initial compiled native release."
+    "version":  "1.0.0",
+    "sha256":  "6BDF6444B87160E68C5579C7309DA594FA90EA1410690F8433E53B177C4328D4"
 }
